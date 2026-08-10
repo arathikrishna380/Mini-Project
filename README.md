@@ -4,10 +4,10 @@ An end-to-end data analytics project delivering interactive visualizations, work
 
 # Repository Content
 
-Global Freelancers Raw Data.csv : Original dataset downloaded prior to data preprocessing and cleaning.
-Global Freelancers Cleaned Dataset : Processed Excel file with imputed missing values, standardized data types, and verified field formatting.
-MINI PROJECT.docx : This word file contains summary of the cleaning process taken to clean the raw data to make it useful for analyzation.
-MINI PROJECT.pbix : Interactive four-page Power BI dashboard featuring dynamic slicers, KPI cards, page navigation, custom bookmark toggles, and detailed drill-through views.
+1. Global Freelancers Raw Data.csv : Original dataset downloaded prior to data preprocessing and cleaning.
+2. Global Freelancers Cleaned Dataset : Processed Excel file with imputed missing values, standardized data types, and verified field formatting.
+3. MINI PROJECT.docx : This word file contains summary of the cleaning process taken to clean the raw data to make it useful for analyzation.
+4. MINI PROJECT.pbix : Interactive four-page Power BI dashboard featuring dynamic slicers, KPI cards, page navigation, custom bookmark toggles, and detailed drill-through views.
 
 # Project Architecture & Workflow
 
