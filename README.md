@@ -4,13 +4,13 @@ An end-to-end data analytics project delivering interactive visualizations, work
 
 # Repository Content
 
-# 1. Global Freelancers Raw Data.csv
+# Global Freelancers Raw Data.csv
 Original dataset downloaded prior to data preprocessing and cleaning.
-# 2. Global Freelancers Cleaned Dataset
+# Global Freelancers Cleaned Dataset
 Processed Excel file with imputed missing values, standardized data types, and verified field formatting.
-# 3. MINI PROJECT.docx
+# MINI PROJECT.docx
 This word file contains summary of the cleaning process taken to clean the raw data to make it useful for analyzation.
-# 4. MINI PROJECT.pbix
+# MINI PROJECT.pbix
 Interactive four-page Power BI dashboard featuring dynamic slicers, KPI cards, page navigation, custom bookmark toggles, and detailed drill-through views.
 
 # Project Architecture & Workflow
@@ -20,7 +20,7 @@ Interactive four-page Power BI dashboard featuring dynamic slicers, KPI cards, p
 * Executed missing value imputations across age, experience, hourly rates, client satisfaction ratings, and activity status fields.
 * Formatted and normalized numerical, categorical, and currency values.
 
-  # 2. Data Modeling & Visualization (Power BI):
+# 2. Data Modeling & Visualization (Power BI):
 
 * Freelancer Overview: Top-level executive KPIs, country distributions, and bookmark filters.
 * Geographic Insight: Spatial distributions, regional performance metrics, and global talent mapping.
