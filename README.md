@@ -11,19 +11,19 @@ An end-to-end data analytics project delivering interactive visualizations, work
 
 # Project Architecture & Workflow
 
-#  1. Data Preprocessing & Quality Assurance (Excel):
+#  1. Data Preprocessing & Quality Assurance (Excel)
 
 * Executed missing value imputations across age, experience, hourly rates, client satisfaction ratings, and activity status fields.
 * Formatted and normalized numerical, categorical, and currency values.
 
-# 2. Data Modeling & Visualization (Power BI):
+# 2. Data Modeling & Visualization (Power BI)
 
 * Freelancer Overview: Top-level executive KPIs, country distributions, and bookmark filters.
 * Geographic Insight: Spatial distributions, regional performance metrics, and global talent mapping.
 * Insights & Recommendations: Advanced rate-to-experience correlation, revenue impact modeling, and strategic findings.
 * Freelancer Details: Drill-through tabular interface for granular profile evaluation.
 
-# 3. Strategic Business Insights:
+# 3. Strategic Business Insights
 
 * Evaluated compensation distributions against experience benchmarks.
 * Analyzed key drivers influencing client satisfaction scores.
