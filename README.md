@@ -28,5 +28,4 @@ An end-to-end data analytics project delivering interactive visualizations, work
 * Evaluated compensation distributions against experience benchmarks.
 * Analyzed key drivers influencing client satisfaction scores.
 * Delivered actionable workforce optimization models to balance active talent retention with operational efficiency.
-# Project Author
-# ARATHI KRISHNA
+# Project Author - Arathi Krishna
